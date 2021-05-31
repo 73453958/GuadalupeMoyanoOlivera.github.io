@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  height: 100%;
 }
 
 ul {
@@ -8,7 +9,6 @@ ul {
   padding: 0;
   width: 15%;
   background-color: gainsboro;
-  position: fixed;
   overflow: auto;
   border: 1px solid #555;
 }
